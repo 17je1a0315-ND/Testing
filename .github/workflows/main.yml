@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     - name: Print Name
-       run: echo "Name ${{ inputs.print }}"
+     - name: Print Names
+       run: echo "Names ${{ inputs.print }}"
         
