@@ -12,3 +12,7 @@ jobs:
     steps:
       - name: Print Hello World
         run: echo "Hello, World!"
+        
+      - name: Print Name
+        run: echo "Naveen"
+        
