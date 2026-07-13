@@ -11,5 +11,5 @@ jobs:
 
     steps:
      - name: Print Names
-       run: echo "Names ${{ inputs.print }}"
+       run: echo "list ${{ inputs.print }}"
         
